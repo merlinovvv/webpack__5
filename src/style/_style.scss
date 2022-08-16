@@ -1,0 +1,14 @@
+body{
+    background-color: tomato;
+    color: $text;
+    background-color: $back;
+    user-select: none;
+    font-family: 'Haettenschweiler', sans-serif;
+}
+
+.image{
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    background-image: url(img/Talk.svg);
+}
